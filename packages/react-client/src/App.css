@@ -1,0 +1,24 @@
+header{
+  -webkit-box-shadow: 0 5px 5px 0 rgba(0,0,0,0.1) !important;
+  /* position: fixed !important;
+  top: 0;
+  margin-bottom: 70px; */
+}
+
+.privacyPolicy{
+  font-size: 14px;
+}
+a:hover{
+  text-transform: none;
+}
+.privacyPolicy:hover(){
+  text-transform: none;
+}
+
+.avatarSignin{
+  background-color: red;
+}
+
+.showUser{
+  color: #ffffff;
+}
